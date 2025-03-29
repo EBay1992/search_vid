@@ -1,14 +1,22 @@
 {
 	"name": "search_vid",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "CLI tool for searching subtitles and playing videos at specific timestamps",
 	"license": "MIT",
+	"author": {
+		"name": "Ehsan Bayranvand",
+		"url": "https://github.com/EBay1992"
+	},
 	"bin": {
 		"search_vid": "./dist/cli.js"
 	},
 	"type": "module",
 	"engines": {
 		"node": ">=16"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EBay1992/search_vid"
 	},
 	"scripts": {
 		"build": "tsc",
