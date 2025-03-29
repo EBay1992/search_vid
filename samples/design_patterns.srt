@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:05,000
+"Life is like a river - it flows around obstacles and finds its own path." - Anonymous
+
+2
+00:00:06,000 --> 00:00:10,000
+"A good book is like a garden carried in the pocket." - Chinese Proverb
+
+3
+00:00:11,000 --> 00:00:15,000
+"Music is the language that needs no translation." - Composer Unknown
+
+4
+00:00:16,000 --> 00:00:20,000
+"Simplicity is the ultimate sophistication." - Leonardo da Vinci
+
+5
+00:00:21,000 --> 00:00:25,000
+"Time is like a snowflake - beautiful but fleeting." - Unknown Poet
+
+6
+00:00:26,000 --> 00:00:30,000
+"Friendship is like a garden - it needs care to grow and flourish." - Garden Enthusiast
+
+7
+00:00:31,000 --> 00:00:35,000
+"Success is not about the destination, it's about the journey." - Ralph Waldo Emerson
+
+8
+00:00:36,000 --> 00:00:40,000
+"Memories are like stars - they light up our darkest moments." - Memory Keeper
+
+9
+00:00:41,000 --> 00:00:45,000
+"Knowledge is like a torch - the more we share, the brighter it burns." - Education Advocate
+
+10
+00:00:46,000 --> 00:00:50,000
+"Behind every smile is a story waiting to be told." - Storyteller
